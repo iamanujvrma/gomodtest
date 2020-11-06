@@ -1,3 +1,5 @@
 github.com/iamanujvrma/gomodtest v0.0.0-20201106084602-f627884df368 h1:47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
 github.com/iamanujvrma/gomodtest/common v0.0.0-20201106084306-6ed20ba0a1e7 h1:4OeETc5gOHxlAhlgSIirIyUSO9XiPI7P8CXt+Nisyb0=
 github.com/iamanujvrma/gomodtest/common v0.0.0-20201106084306-6ed20ba0a1e7/go.mod h1:UF/5gMYsOOPESiE28XaePnBVqPIKEOapL6CQ5AB2FKs=
+github.com/iamanujvrma/gomodtest/common v0.0.0-20201106085922-e71e1ad06508 h1:1wnGgzV7LY57wa0ATzbqUFqtEy5WCEhfmHEZujtw5WI=
+github.com/iamanujvrma/gomodtest/common v0.0.0-20201106085922-e71e1ad06508/go.mod h1:UF/5gMYsOOPESiE28XaePnBVqPIKEOapL6CQ5AB2FKs=

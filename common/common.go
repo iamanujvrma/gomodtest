@@ -9,3 +9,7 @@ func Print() {
 func PrintName() {
 	fmt.Println("in common print name")
 }
+
+func PrintHelloWorld() {
+	fmt.Println("in common print hello world")
+}
